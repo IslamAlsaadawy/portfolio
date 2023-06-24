@@ -30,7 +30,7 @@ const About = () => {
             Hi my name is Islam Alsaadawy i am a full stack developer that strives
       
           </p>  
-          <a href={CV} download className='btn primary'>Download CV <BsDownload/></a>
+          <a href={CV} download className='btn primary about__button'>Download CV <BsDownload/></a>
         </div>
 
         </div>

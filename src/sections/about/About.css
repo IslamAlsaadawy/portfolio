@@ -60,14 +60,18 @@
     .about__container{
         grid-template-columns: 1fr;
     }
-    .about_right h2{
+    .about__right h2{
         text-align: center;
+    }
+    
+    .about__button{
+        
     }
 }
 
 @media screen and (max-width:600px) {
     .about__cards{
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr;
         gap: 1rem;
     }
     .about__right{
