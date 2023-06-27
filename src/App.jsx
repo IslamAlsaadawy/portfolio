@@ -18,12 +18,12 @@ const App = () => {
       <Header/>
       <About/>
       <Service/>
-      <Portfolio/>
-      <Testiomnials/>
-      <FAQS/>
+      {/* <Portfolio/>
+      <Testiomnials/> */}
+      {/* <FAQS/> */}
       <Contact/>
-      <Footer/>
-      <FloatingNav/>
+      {/* <Footer/>
+      <FloatingNav/> */}
     </main>
   )
 }

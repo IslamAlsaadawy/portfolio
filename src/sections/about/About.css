@@ -77,6 +77,12 @@
     .about__right{
         margin-top: 2rem;
     }
+    .about__button{
+        place-items: center;
+        align-items: center !important;
+        place-content: center;
+        width: 100% !important;
+    }
 }
 /* .about__right{
     display: flex;
